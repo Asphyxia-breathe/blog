@@ -1,18 +1,33 @@
 sudo apt install git gcc g++ cmake
+
 sudo apt install libjsoncpp-dev
+
 sudo apt install uuid-dev
+
 sudo apt install zlib1g-dev
+
 sudo apt install openssl libssl-dev
+
 sudo apt install -y libmysqlclient-dev 
+
 sudo apt install mysql-server
+
 sudo apt install curl
+
 apt install libpq-dev
+
 apt-get install zip
+
 apt install libmariadb-dev
+
  apt install libsqlite3-dev
+ 
 sudo apt-get install pkg-config
+
 sudo apt install build-essential
+
 sudo apt-get install libyaml-cpp-dev
+
 
 ## 启动并连接mysql
 我用的docker遇到了一个问题
@@ -43,10 +58,15 @@ CREATE DATABASE IF NOT EXISTS blog_db;
 
 ## 安装vcpkg及jsoncpp及jwt-cpp
 cd vcpkg
+
 ./bootstrap-vcpkg.sh
+
 ./vcpkg integrate install
+
 ./vcpkg install jwt-cpp
+
 ./vcpkg install jsoncpp
+
 
 ## 安装drogon
 cd drogon
