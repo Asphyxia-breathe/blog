@@ -1,3 +1,4 @@
+# 环境配置
 sudo apt install git gcc g++ cmake
 
 sudo apt install libjsoncpp-dev
