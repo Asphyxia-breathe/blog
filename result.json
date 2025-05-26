@@ -1,0 +1,8 @@
+{
+  "type": "中性",
+  "keyword_analysis": "无",
+  "analysis_fields": {
+    "tone_analysis": "无",
+    "feature_analysis": "提供的内容主要是关于一张图片的描述，没有体现出任何情感倾向相关的内容"
+  }
+}

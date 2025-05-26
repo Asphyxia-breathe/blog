@@ -1,0 +1,8 @@
+{
+  "type": "积极",
+  "keyword_analysis": "love（爱）",
+  "analysis_fields": {
+    "tone_analysis": "直接表达喜爱，语气积极",
+    "feature_analysis": "无特殊修辞等其他复杂特征"
+  }
+}

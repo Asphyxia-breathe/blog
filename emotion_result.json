@@ -1,0 +1,8 @@
+{
+  "type": "消极",
+  "keyword_analysis": "血腥",
+  "analysis_fields": {
+    "tone_analysis": "无明确语气词，但“血腥”一词本身带有负面、令人不适的感觉",
+    "feature_analysis": "仅提及“血腥内容”，结合“血腥”所传达的负面意象"
+  }
+}

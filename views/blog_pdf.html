@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>{{title}}</title>
+    <style>
+        body { font-family: "Arial", sans-serif; margin: 40px; }
+        h1 { color: #333; }
+        .meta { font-size: 0.9em; color: gray; margin-bottom: 20px; }
+        .content { line-height: 1.6; white-space: pre-wrap; }
+    </style>
+</head>
+<body>
+    <h1>{{title}}</h1>
+    <div class="meta">
+        <p><strong>作者:</strong> {{author}}</p>
+        <p><strong>创建时间:</strong> {{created_at}}</p>
+        <p><strong>修改时间:</strong> {{updated_at}}</p>
+    </div>
+    <div class="content">{{content}}</div>
+</body>
+</html>
