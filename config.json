@@ -254,7 +254,7 @@
         "port": 3306,
         "dbname": "blog_db",
         "user": "root",
-        "passwd": "Lzy.010904",
+        "passwd": "数据库的密码",
         "is_fast":false,
         "number_of_connections":5
     }
